@@ -1,0 +1,18 @@
+* Frontend
+** Chat em tempo real com WebRTC/WebSockets
+** Lista de participamente em tempo real
+* VideoCall
+** WebRTC com Coturn próprio
+** Audio
+** Video
+** Screenshare
+* Backend
+** Gerenciamento de Tokens
+** Persistência de mensagens
+* Datahandling
+** Enviar msgs. para Kafka
+** Processar msgs do kafka no ES (Usar job do prefect)
+* Export
+** API docs with nice UI to export chart
+** Export as PDF
+** Live Stream with RTSPServer
